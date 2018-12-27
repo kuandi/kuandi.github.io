@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/kuandi/kuandi.github.io/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+$ git submodule add https://github.com/calintat/minimal.git themes/minimal
+$ git submodule init
+$ git submodule update
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
